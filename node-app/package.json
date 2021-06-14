@@ -1,0 +1,13 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "containerized nodejs application sample app",
+  "author": "Adrian Ducao",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
